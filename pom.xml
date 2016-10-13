@@ -20,7 +20,7 @@
          <artifactId>jaunt</artifactId>
          <scope>system</scope>
          <version>1.2.1</version>
-         <systemPath>${basedir}\src\main\webapp\WEB-INF\lib\jaunt1.2.1.jar</systemPath>
+         <systemPath>${basedir}/src/main/webapp/WEB-INF/lib/jaunt1.2.1.jar</systemPath>
       </dependency>
       <dependency>
 	    <groupId>javax.servlet.jsp</groupId>
