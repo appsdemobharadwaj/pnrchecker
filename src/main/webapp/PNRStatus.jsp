@@ -10,7 +10,7 @@
     <link href="//cdn.muicss.com/mui-0.7.5/css/mui.min.css" rel="stylesheet" type="text/css" />
     <script src="//cdn.muicss.com/mui-0.7.5/js/mui.min.js"></script>
   </head>
-  <body>
+  <body style="background-color:grey;">
   
   <div class="mui-appbar">
   	<center><h2>Railway Status</h2></center>
