@@ -13,7 +13,7 @@
   <body style="background-color:grey;">
   
   <div class="mui-appbar">
-  	<center><h2>Railway Status page 1</h2></center>
+  	<center><h2>Railway Status Mod 1</h2></center>
 	</div>
     <!-- example content -->
     <div class="mui-container">
